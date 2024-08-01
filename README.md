@@ -8,7 +8,7 @@ For any problem open an ISSUE 🚬, the project is very simple so any help is we
 
 **Are you bored reading😴? Do you want to try our project now⏳? Open the notebook on Colab everything is ready!** 
 
-**RUN NOW ON COLAB😮** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14854fi6oO4lXqR3_mt6tc2Lr2IsA12oq?usp=sharing)
+**RUN NOW ON COLAB😮** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UJnIQ1lGoXyHIp4JKpA_La9DdeenjpVb?usp=sharing)
 ⚠️ Abusing this tool is at your own risk
 
 ![intro](https://user-images.githubusercontent.com/108482353/236516034-737e0ca0-7ccb-4629-affb-aff0fb2b6579.png)
